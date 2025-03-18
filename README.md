@@ -1,4 +1,3 @@
-# Marketing-Data-Analysis-Python
 # Marketing Data Analysis
 
 ## 📌 Overview
